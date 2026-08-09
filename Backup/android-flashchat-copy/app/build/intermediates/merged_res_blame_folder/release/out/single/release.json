@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.flashchat.app-merged_res-26:/drawable_ic_launcher_round.png.flat",
+        "source": "com.flashchat.app-main-27:/drawable/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/drawable_ic_launcher.png.flat",
+        "source": "com.flashchat.app-main-27:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.flashchat.app-main-27:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/drawable_logo.png.flat",
+        "source": "com.flashchat.app-main-27:/drawable/logo.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.flashchat.app-main-27:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/drawable-mdpi_assets_images_logo.png.flat",
+        "source": "com.flashchat.app-res-21:/drawable-mdpi/assets_images_logo.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-xhdpi_logo.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-xxxhdpi_logo.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/drawable-mdpi_logo.png.flat",
+        "source": "com.flashchat.app-main-27:/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/drawable-mdpi_ic_launcher_round.png.flat",
+        "source": "com.flashchat.app-main-27:/drawable-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-hdpi_logo.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-xxhdpi_logo.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.flashchat.app-merged_res-26:/mipmap-mdpi_logo.png.flat",
+        "source": "com.flashchat.app-main-27:/mipmap-mdpi/logo.png"
+    }
+]

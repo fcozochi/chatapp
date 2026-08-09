@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <string name="app_name">FlashChat</string>
+    <string name="sixteen_kb_page_size_supported">true</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+</resources>

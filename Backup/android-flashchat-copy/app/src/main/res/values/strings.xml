@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlashChat</string>
+    <string name="sixteen_kb_page_size_supported">true</string>
+</resources>
